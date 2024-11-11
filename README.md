@@ -89,7 +89,7 @@ ix. Ver el nombre de los desarrolladores y directores.
 
 x. Visualizar los productos.
 
-xi. Infromación de la fase de desarrollo de los videojuegos.
+xi. Información de la fase de desarrollo de los videojuegos.
 
 
 
