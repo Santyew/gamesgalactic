@@ -48,28 +48,47 @@ vii. Iniciar sesión en la aplicación
 ```Director```
 
 i. Visualizar proyectos.
+
 ii. Visualizar las fechas de salida.
+
 iii. Ver las próximas reuniones y su sala.
-iv. Iniciar sesión en la aplicación
+
+iv. Iniciar sesión en la aplicación.
+
 v. Visualizar el estado de proyectos.
+
 vi. Crear cuenta de usuario.
+
 vii. Ver catálogo de juegos.
+
 viii. Visualizar información de los videojuegos.
-ix. Ver el nombre de los desarrolladores y directores
-x. Visualizar los productos 
+
+ix. Ver el nombre de los desarrolladores y directores.
+
+x. Visualizar los productos.
 
 ``CEO``
 
 i. Visualizar proyectos.
+
 ii. Visualizar las fechas de salida.
+
 iii. Ver las próximas reuniones y su sala.
-iv. Iniciar sesión en la aplicación
+
+iv. Iniciar sesión en la aplicación.
+
 v. Visualizar el estado de proyectos.
+
 vi. Crear cuenta de usuario.
+
 vii. Ver catálogo de juegos.
+
 viii. Visualizar información de los videojuegos.
-ix. Ver el nombre de los desarrolladores y directores
-x. Visualizar los productos 
+
+ix. Ver el nombre de los desarrolladores y directores.
+
+x. Visualizar los productos.
+
 xi. Infromación de la fase de desarrollo de los videojuegos.
 
 
